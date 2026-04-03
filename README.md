@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate about Python, Java, C++, C, Web Development & DSA in Java<br>I’m currently learning python, javascript, dsa in java<br>I’m looking to collaborate on AIML Projects as well as some DSA Project
+A passionate about Data Science(Python) & DSA in Java<br>I’m currently learning python, and dsa in java<br>I’m looking to collaborate on AIML Projects as well as some DSA Project
 
 
 ## 🌐 Socials:
